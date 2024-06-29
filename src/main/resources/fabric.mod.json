@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "template-mod",
+	"id": "diamondmod",
 	"version": "${version}",
-	"name": "Template Mod",
+	"name": "Diamond Mod",
 	"description": "Diamond Mod",
 	"authors": [
 		"Diamond"
